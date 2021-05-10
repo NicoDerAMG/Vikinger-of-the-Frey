@@ -1,2 +1,2 @@
-# Vikinger-of-the-Frey
+# FreeGZUZ
 GameDev place
